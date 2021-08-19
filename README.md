@@ -2,6 +2,8 @@
 
 ![César's github stats](https://github-readme-stats.vercel.app/api?username=cesar-vzc)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-vzc)](https://github.com/cesar-vzc/github-readme-stats)
+
 <!--
 **cesar-vzc/cesar-vzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
