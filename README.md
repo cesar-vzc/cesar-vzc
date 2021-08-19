@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/cesar-vzc/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cesar-vzc&show_icons=true&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cesar-vzc&show_icons=true&theme=tokyonight" />
 </a>
 
 
